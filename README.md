@@ -6,7 +6,8 @@ public static void main(String args[]){
  
 no solo eso, si no que tambien tengo ganas de salir adelante, investigar, aprender, seguir investigando que puedo hacer y no parar de conseguir conocimiento, tambien me sirve mucho como plantilla si querré conseguir mis metas que tengo en mente, como seria trabajar con google o con tecnologia avanzada, se que tengo muuucho camino por delante, y muchos tropiezos, tendre que partir con matematica dura y uno que otro fracaso, pero el mero hecho de estar aca, en esta universidad estudiando lo que quiero y donde quiero, es mas que suficiente para pasar por todo este camino que tengo por delante
 
-ojala poder inscribirme en varios talleres pronto, cuando todo esto acabe sajkdd");
+(ojala poder inscribirme en varios talleres pronto, cuando todo esto acabe sajkdd");
  
  }
 }
+(parece que el codigo que escribi antes del texto me lo tomo literal el github)

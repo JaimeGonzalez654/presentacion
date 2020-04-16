@@ -10,4 +10,3 @@ no solo eso, si no que tambien tengo ganas de salir adelante, investigar, aprend
  
  }
 }
-(parece que el codigo que escribi antes del texto me lo tomo literal el github)
